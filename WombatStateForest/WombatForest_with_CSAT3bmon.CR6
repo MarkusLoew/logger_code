@@ -78,11 +78,6 @@ Const PAKBUS_ADDR = 1
 
 ' Markus
 ' server information for data upload
-'Const FTP_Address = "live.fluxdata.cloud.edu.au"
-'Const FTP_Port = 4221
-'Const FTP_Username = "logger"
-'Const FTP_Password = ""
-'Const FTP_FolderPath = "/WombatForest/"
 Const Server = "server"
 Const User = "user"
 Const Pass = ""
@@ -971,3 +966,4 @@ BeginProg
   NextScan
   EndSequence
 EndProg
+
